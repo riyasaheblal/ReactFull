@@ -1,0 +1,9 @@
+/* extension=> .module.css */
+.heading{
+    color: red;
+    text-transform: uppercase;
+}
+.para{
+    color: rgb(150, 127, 255);
+    text-transform: lowercase;
+}
